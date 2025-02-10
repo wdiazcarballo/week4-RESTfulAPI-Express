@@ -1,7 +1,3 @@
-Here's the **revised timetable** in `README.md` to include a **25-minute break** and follow the updated **learning flow**:
-
----
-
 # **สัปดาห์ที่ 4 - การสร้าง RESTful API และเชื่อมต่อ Web App**
 
 ## **📌 วัตถุประสงค์การเรียนรู้ (Course Learning Objectives - CLOs)**
