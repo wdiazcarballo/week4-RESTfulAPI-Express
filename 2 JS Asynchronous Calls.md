@@ -1,4 +1,4 @@
-### **📌 การจัดการ Asynchronous Calls ใน JavaScript (Async/Await & Promises)**
+### **📌 2 การจัดการ Asynchronous Calls ใน JavaScript (Async/Await & Promises)**
 ---
 
 ### **🔹 1. การทำงานของ JavaScript เป็นแบบ Single-Threaded และ Asynchronous**
