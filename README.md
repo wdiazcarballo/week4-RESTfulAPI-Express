@@ -30,5 +30,32 @@
 1. **พัฒนา CRUD API ให้รองรับการอัปเดตและลบข้อมูล** (`PUT` / `DELETE`)  
 2. **ใช้ React Form เพื่อเพิ่มข้อมูลลงในฐานข้อมูลผ่าน API**  
 3. **ใช้ Postman ทดสอบ API และแก้ไขปัญหาที่พบ**  
-4. **เชื่อมต่อ AI API (ChatGPT, Hugging Face) กับ Web App และแสดงผลลัพธ์**  
+4. **เชื่อมต่อ AI API (ChatGPT, Hugging Face) กับ Web App และแสดงผลลัพธ์**
+
+## **🎉🍄‍🟫ของเล่นใหม่ PowerToy **
+```python
+class Person:
+    """A simple class representing a person."""
+    
+    def __init__(self, name, age):
+        """Constructor to initialize name and age attributes."""
+        self.name = name
+        self.age = age
+
+    def greet(self):
+        """Method to greet the person."""
+        return f"Hello, my name is {self.name} and I am {self.age} years old."
+
+    def have_birthday(self):
+        """Method to increase age by 1 year."""
+        self.age += 1
+        return f"Happy Birthday {self.name}! You are now {self.age} years old."
+
+# Example Usage
+person1 = Person("Alice", 25)
+
+print(person1.greet())  # Output: Hello, my name is Alice and I am 25 years old.
+print(person1.have_birthday())  # Output: Happy Birthday Alice! You are now 26 years old.
+
+```
 
