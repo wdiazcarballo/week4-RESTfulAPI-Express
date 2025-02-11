@@ -21,7 +21,54 @@
 git clone https://github.com/your-username/express-api.git
 cd express-api
 ```
+5. สร้างไฟล์ .gitignore
+```bash
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
 
+# Logs
+logs
+*.log
+logs/*.log
+debug.log
+error.log
+
+# Database & Cache
+*.sqlite
+*.sqlite-journal
+mongodb-data/
+dump/
+data/
+*.pid
+
+# Temporary files
+tmp/
+temp/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Compiled files
+dist/
+build/
+coverage/
+
+# VS Code settings
+.vscode/
+.history/
+
+# MacOS system files
+._*
+.Spotlight-V100
+.Trashes
+
+```
 ### ✅ **1.2 ติดตั้ง Express และแพ็กเกจที่จำเป็น**
 ```bash
 npm init -y
