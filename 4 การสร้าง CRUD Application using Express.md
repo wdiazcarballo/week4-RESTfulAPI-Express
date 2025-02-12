@@ -82,7 +82,7 @@ npm install express cors body-parser dotenv mongoose
 - **mongoose** → ช่วยจัดการฐานข้อมูล MongoDB ด้วย JavaScript  
 
 ### ✅ **1.3 ติดตั้ง MongoDB **
-- ให้นักศึกษาติดตั้ง MongoDB Community ลงบนเครื่อง จาก เว็บไซต์ https://www.mongodb.com/try/download/community![image](https://github.com/user-attachments/assets/cbf3281c-ab3b-48b2-b8dd-80df09cc92e1)
+- ให้นักศึกษาติดตั้ง MongoDB Community ลงบนเครื่อง จาก เว็บไซต์ https://www.mongodb.com/products/self-managed/community-edition
 - ติดตั้งโปรแกรม Mongoose 
 ---
 
